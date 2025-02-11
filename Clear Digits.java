@@ -17,4 +17,4 @@ class Solution {
   }
 }
 
-//O(n)
+//time complexity:O(n)
