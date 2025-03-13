@@ -34,4 +34,16 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+## Array
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
+## Binary Search
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 <!---LeetCode Topics End-->
