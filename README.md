@@ -15,3 +15,23 @@ This repository is dedicated to my daily practice of solving LeetCode problems. 
 
 ## 🛠️ Structure  
 Each problem will be categorized by topic and difficulty level.  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+<!---LeetCode Topics End-->
