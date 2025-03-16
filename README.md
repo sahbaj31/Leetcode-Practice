@@ -37,6 +37,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
@@ -46,4 +47,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
