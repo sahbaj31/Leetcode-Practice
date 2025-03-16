@@ -38,10 +38,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [2665-minimum-time-to-repair-cars](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
