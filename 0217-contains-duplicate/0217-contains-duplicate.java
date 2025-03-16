@@ -28,9 +28,17 @@ class Solution {
     
     public boolean containsDuplicate(int[] arr) {
     
-        mergeSort(arr, 0, arr.length - 1);
-        for(int i=0; i<arr.length-1; i++){
-            if(arr[i]==arr[i+1]) return true;
+        // mergeSort(arr, 0, arr.length - 1);
+        // for(int i=0; i<arr.length-1; i++){
+        //     if(arr[i]==arr[i+1]) return true;
+        // }
+        // return false;
+
+        HashSet<Integer> seen = new HashSet<>();
+        for(int ele:arr){
+            if(seen.contains(ele)) return true;
+
+            seen.add(ele);
         }
         return false;
 
