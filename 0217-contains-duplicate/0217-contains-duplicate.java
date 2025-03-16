@@ -27,17 +27,18 @@ class Solution {
     }
     
     public boolean containsDuplicate(int[] arr) {
-        // int i=0;
-        // int j= arr.length-1;
-        // while(i<j){
-        //     if(arr[i]==arr[j])
-        //     return true;
-        //     i++;
-        //     j--;
-        // }
-        // return false;
+    
+        mergeSort(arr, 0, arr.length - 1);
+        for(int i=0; i<arr.length-1; i++){
+            if(arr[i]==arr[i+1]) return true;
+        }
+        return false;
 
-        // int[] ans = new int[arr.length*2];
+
+         //HashSet can be used instead of this, ideal solution through
+         // hashSet only with complecity O(1)
+
+        // int[] ans = new int[arr.length*2]; 
         // for(int i=0; i<arr.length; i++){
         //     ans[arr[i]]++;
         // }
@@ -47,11 +48,5 @@ class Solution {
         //     }
         // }
         // return false;
-
-        mergeSort(arr, 0, arr.length - 1);
-        for(int i=0; i<arr.length-1; i++){
-            if(arr[i]==arr[i+1]) return true;
-        }
-        return false;
     }
 }
