@@ -38,6 +38,7 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2665-minimum-time-to-repair-cars) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -53,8 +54,17 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
