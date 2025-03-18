@@ -13,17 +13,15 @@ class Solution {
         ListNode temp = new ListNode(-1);
         temp.next=head;
 
-        ListNode cur = temp;
-        while(cur.next!=null){
-            if(cur.next.val==val){
-                cur.next=cur.next.next;
+        ListNode current = temp;
+        while(current.next!=null){
+            if(current.next.val==val){
+                current.next=current.next.next;
             }
             else{
-                cur=cur.next;
+                current = current.next;
             }
-
         }
         return temp.next;
-        
     }
 }
