@@ -22,6 +22,7 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -29,6 +30,7 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
@@ -36,10 +38,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
+| [0112-path-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
