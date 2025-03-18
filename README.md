@@ -23,12 +23,14 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -39,6 +41,7 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -83,4 +86,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
+## String
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
