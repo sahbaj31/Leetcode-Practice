@@ -72,4 +72,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
