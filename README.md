@@ -78,6 +78,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
 ## Counting
@@ -92,6 +93,7 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -108,4 +110,5 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
