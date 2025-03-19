@@ -104,4 +104,8 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
