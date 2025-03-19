@@ -94,6 +94,7 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -111,4 +112,13 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0009-palindrome-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
