@@ -55,6 +55,7 @@ Each problem will be categorized by topic and difficulty level.
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2665-minimum-time-to-repair-cars) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
@@ -83,6 +84,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Counting
 |  |
@@ -132,4 +134,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Union Find
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Graph
+|  |
+| ------- |
+| [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 <!---LeetCode Topics End-->
