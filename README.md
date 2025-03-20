@@ -53,6 +53,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -82,6 +83,7 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,4 +150,8 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
