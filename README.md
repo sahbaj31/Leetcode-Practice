@@ -126,6 +126,7 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0009-palindrome-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0319-bulb-switcher](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0319-bulb-switcher) |
 | [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
@@ -154,4 +155,8 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
