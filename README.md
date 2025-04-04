@@ -26,6 +26,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -34,11 +35,13 @@ Each problem will be categorized by topic and difficulty level.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0112-path-sum) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -47,6 +50,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0543-diameter-of-binary-tree) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +81,7 @@ Each problem will be categorized by topic and difficulty level.
 | ------- |
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 ## Sorting
