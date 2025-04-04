@@ -142,6 +142,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 |  |
@@ -159,4 +160,12 @@ Each problem will be categorized by topic and difficulty level.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0319-bulb-switcher) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
