@@ -57,6 +57,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -84,6 +85,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -93,6 +95,7 @@ Each problem will be categorized by topic and difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -105,6 +108,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -172,6 +176,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -196,4 +201,13 @@ Each problem will be categorized by topic and difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
