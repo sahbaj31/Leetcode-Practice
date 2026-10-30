@@ -62,6 +62,7 @@ Each problem will be categorized by topic and difficulty level.
 | [2478-longest-nice-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2665-minimum-time-to-repair-cars) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahbaj31/Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3643-zero-array-transformation-ii) |
@@ -86,6 +87,7 @@ Each problem will be categorized by topic and difficulty level.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahbaj31/Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +108,7 @@ Each problem will be categorized by topic and difficulty level.
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/sahbaj31/Leetcode-Practice/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
