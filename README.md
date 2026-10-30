@@ -82,6 +82,7 @@ Each problem will be categorized by topic and difficulty level.
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0146-lru-cache/) | Medium |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
@@ -101,6 +102,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sahbaj31/Leetcode-Practice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -119,6 +121,7 @@ Each problem will be categorized by topic and difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0257-binary-tree-paths](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@ Each problem will be categorized by topic and difficulty level.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/sahbaj31/Leetcode-Practice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Union Find
 | Problem Name | Difficulty |
