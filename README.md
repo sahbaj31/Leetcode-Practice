@@ -55,6 +55,7 @@ Each problem will be categorized by topic and difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [0217-contains-duplicate](https://github.com/sahbaj31/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ Each problem will be categorized by topic and difficulty level.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 | [1013-fibonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sahbaj31/Leetcode-Practice/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
@@ -190,4 +192,8 @@ Each problem will be categorized by topic and difficulty level.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0146-lru-cache/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sahbaj31/Leetcode-Practice/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
